@@ -4,15 +4,9 @@
 
 ### Purpose
 
-## Analysis and Challenges
+### Analysis of School District Metrics
 
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
-## Results
+## Summary
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
