@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# School District Analysis
 
 ## Overview of Project
 
